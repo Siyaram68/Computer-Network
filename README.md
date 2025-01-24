@@ -1,1 +1,1 @@
-All programs are in C Program
+All programs are in C Language.
